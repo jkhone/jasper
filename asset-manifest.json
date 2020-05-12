@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jasper/static/css/main.61066c37.chunk.css",
+    "main.js": "/jasper/static/js/main.881de392.chunk.js",
+    "main.js.map": "/jasper/static/js/main.881de392.chunk.js.map",
+    "runtime-main.js": "/jasper/static/js/runtime-main.d8b74bcc.js",
+    "runtime-main.js.map": "/jasper/static/js/runtime-main.d8b74bcc.js.map",
+    "static/css/2.d3d22e3b.chunk.css": "/jasper/static/css/2.d3d22e3b.chunk.css",
+    "static/js/2.465c33f6.chunk.js": "/jasper/static/js/2.465c33f6.chunk.js",
+    "static/js/2.465c33f6.chunk.js.map": "/jasper/static/js/2.465c33f6.chunk.js.map",
+    "index.html": "/jasper/index.html",
+    "precache-manifest.57e79dd4f997ac6cf71bd5742658c655.js": "/jasper/precache-manifest.57e79dd4f997ac6cf71bd5742658c655.js",
+    "service-worker.js": "/jasper/service-worker.js",
+    "static/css/2.d3d22e3b.chunk.css.map": "/jasper/static/css/2.d3d22e3b.chunk.css.map",
+    "static/css/main.61066c37.chunk.css.map": "/jasper/static/css/main.61066c37.chunk.css.map",
+    "static/js/2.465c33f6.chunk.js.LICENSE.txt": "/jasper/static/js/2.465c33f6.chunk.js.LICENSE.txt",
+    "static/media/csharpgame.png": "/jasper/static/media/csharpgame.62335206.png",
+    "static/media/font-awesome.min.css": "/jasper/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/memory.png": "/jasper/static/media/memory.0148854c.png",
+    "static/media/mint.png": "/jasper/static/media/mint.51e2eda3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8b74bcc.js",
+    "static/css/2.d3d22e3b.chunk.css",
+    "static/js/2.465c33f6.chunk.js",
+    "static/css/main.61066c37.chunk.css",
+    "static/js/main.881de392.chunk.js"
+  ]
+}

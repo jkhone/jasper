@@ -98,6 +98,10 @@ header a , header a:hover {
   transition: .5s;
 }
 
+.mylinks a:hover {
+  color: rgb(0, 117, 190);
+}
+
 /* End of Main */
 
 /* About */

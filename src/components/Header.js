@@ -10,7 +10,7 @@ export default props => {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" className='navbutton'/>
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="topnav">
-                    <Link to='/' className="btn btn-one">Home</Link>
+                    <Link to='/jasper' className="btn btn-one">Home</Link>
                     <Link to='/about' className="btn btn-one">About</Link>
                     <Link to='/skills' className="btn btn-one">Skills</Link>
                     <Link to='/projects' className="btn btn-one">Projects</Link>

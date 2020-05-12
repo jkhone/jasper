@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4250cacafc039ded267086d2742cd51b",
+    "revision": "38524aaab61aa42a94358f4a3875c9ec",
     "url": "/jasper/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jasper/static/css/2.d3d22e3b.chunk.css"
   },
   {
-    "revision": "c6b66638ccfa4ec952a4",
+    "revision": "3b51e79ebb67516464f8",
     "url": "/jasper/static/css/main.61066c37.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jasper/static/js/2.465c33f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6b66638ccfa4ec952a4",
-    "url": "/jasper/static/js/main.881de392.chunk.js"
+    "revision": "3b51e79ebb67516464f8",
+    "url": "/jasper/static/js/main.54c00af1.chunk.js"
   },
   {
     "revision": "91b1c874f9c5fb80f004",

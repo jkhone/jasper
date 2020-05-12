@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Router>
         <Header />
-        <Route exact path='/' component={Main} />
+        <Route exact path='/jasper' component={Main} />
         <Route path='/about' component={About} />
         <Route path='/skills' component={Skills} />
         <Route path='/projects' component={Projects} />

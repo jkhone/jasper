@@ -16,10 +16,10 @@ function App() {
       <Router>
         <Header />
         <Route exact path='/jasper' component={Main} />
-        <Route path='/about' component={About} />
-        <Route path='/skills' component={Skills} />
-        <Route path='/projects' component={Projects} />
-        <Route path='/contact' component={Contact} />
+        <Route path='/jasper/about' component={About} />
+        <Route path='/jasper/skills' component={Skills} />
+        <Route path='/jasper/projects' component={Projects} />
+        <Route path='/jasper/contact' component={Contact} />
       </Router>
     </div>
   );
